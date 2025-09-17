@@ -4,7 +4,7 @@ How to run?
 STEPS:
 Clone the repository
 ```bash
-git clone https://github.com/entbappy/Build-a-Complete-Medical-Chatbot-with-LLMs-LangChain-Pinecone-Flask-AWS.git
+git clone https://github.com/nandavankalapati/Medical-Chatbot-with-LLMs.git
 ```
 STEP 01- Create a conda environment after opening the repository
 ```bash
