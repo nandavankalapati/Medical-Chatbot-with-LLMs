@@ -20,7 +20,7 @@ pip install -r requirements.txt
 Create a .env file in the root directory and add your Pinecone & openai credentials as follows:
 ```bash
 PINECONE_API_KEY = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
-OPENAI_API_KEY = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+GROQ_API_KEY = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
 ```
 ```bash
 # run the following command to store embeddings to pinecone
@@ -40,5 +40,5 @@ Techstack Used:
 - Python
 - LangChain
 - Flask
-- Gemini
+- Groq
 - Pinecone
